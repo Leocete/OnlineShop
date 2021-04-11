@@ -2,7 +2,7 @@ import React from 'react';
 import NavigationBar from '../components/NavigationBar';
 
 const App = (): JSX.Element => {
-  console.log("sdasdsad")
+  console.log('sdasdsad');
   return (
     <div className="app-wrapper">
       <header>
